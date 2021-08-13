@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\Mick van der Woude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

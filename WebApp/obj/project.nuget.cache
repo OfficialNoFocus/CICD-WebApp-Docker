@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vhVTdP9KK2HREUp0nNWhQVWqycC7ihhURWfx7Vja6pbQOIstLATXQ1+RnTyNBz5pfkib7zgagbQl6DlOwDAIMA==",
+  "dgSpecHash": "DUnkK9iqveX76c/8K3WTS9HDfmFshOhrQiVSW8A+TPY0CDK0jNqcTZs3dL5iKsk6aUSjeoPAyUHMuVK2SN9YUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mick van der Woude\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.3\\microsoft.aspnetcore.mvc.razor.extensions.5.0.3.nupkg.sha512",
     "C:\\Users\\Mick van der Woude\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.3\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.3.nupkg.sha512",

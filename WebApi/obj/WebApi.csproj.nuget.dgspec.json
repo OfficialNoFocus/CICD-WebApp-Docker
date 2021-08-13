@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Mick van der Woude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mick van der Woude\\source\\repos\\Kubernetes Experiment\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Mick van der Woude\\source\\repos\\CICD WebApp\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
