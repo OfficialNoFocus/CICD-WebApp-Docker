@@ -1,0 +1,17 @@
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\appsettings.Development.json
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\appsettings.json
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\WebApi.exe
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\WebApp.Views.dll
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\WebApp.Views.pdb
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\WebApp.exe
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\WebApi.dll
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\WebApp.dll
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\WebApi.pdb
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\bin\Debug\WebApp.pdb
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\obj\Debug\docker-compose.dcproj.CopyComplete
