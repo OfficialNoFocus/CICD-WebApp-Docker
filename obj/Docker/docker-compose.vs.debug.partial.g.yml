@@ -14,8 +14,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webapi$
     volumes:
-      - C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\WebApi:/app
-      - C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment:/src
+      - C:\Users\Mick van der Woude\source\repos\CICD WebApp\WebApi:/app
+      - C:\Users\Mick van der Woude\source\repos\CICD WebApp:/src
       - C:\Users\Mick van der Woude\vsdbg\vs2017u5:/remote_debugger:rw
 #$nuget_volume_mapping_webapi$
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
@@ -41,8 +41,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webapp$
     volumes:
-      - C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment\WebApp:/app
-      - C:\Users\Mick van der Woude\source\repos\Kubernetes Experiment:/src
+      - C:\Users\Mick van der Woude\source\repos\CICD WebApp\WebApp:/app
+      - C:\Users\Mick van der Woude\source\repos\CICD WebApp:/src
       - C:\Users\Mick van der Woude\vsdbg\vs2017u5:/remote_debugger:rw
 #$nuget_volume_mapping_webapp$
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
